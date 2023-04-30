@@ -1,6 +1,4 @@
 var watch = document.querySelector(".watch");
-var Day = document.querySelector(".day");
- var Todays = ["sunday", "monday", "tuesday", "wednessday", "thusday", "friday", "satarday"];
 setInterval(function(){
 
     var date = new Date ();
